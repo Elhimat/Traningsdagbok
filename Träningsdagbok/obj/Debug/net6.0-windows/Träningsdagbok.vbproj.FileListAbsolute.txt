@@ -1,6 +1,5 @@
 C:\Users\EliasMattsson\source\repos\Träningsdagbok\Träningsdagbok\obj\Debug\net6.0-windows\Träningsdagbok.vbproj.AssemblyReference.cache
 C:\Users\EliasMattsson\source\repos\Träningsdagbok\Träningsdagbok\obj\Debug\net6.0-windows\Träningsdagbok.Form1.resources
-C:\Users\EliasMattsson\source\repos\Träningsdagbok\Träningsdagbok\obj\Debug\net6.0-windows\Träningsdagbok.Form2.resources
 C:\Users\EliasMattsson\source\repos\Träningsdagbok\Träningsdagbok\obj\Debug\net6.0-windows\Träningsdagbok.vbproj.GenerateResource.cache
 C:\Users\EliasMattsson\source\repos\Träningsdagbok\Träningsdagbok\obj\Debug\net6.0-windows\Träningsdagbok.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\EliasMattsson\source\repos\Träningsdagbok\Träningsdagbok\obj\Debug\net6.0-windows\Träningsdagbok.AssemblyInfoInputs.cache
@@ -31,3 +30,4 @@ C:\Users\EliasMattsson\source\repos\Träningsdagbok\Träningsdagbok\bin\Debug\ne
 C:\Users\EliasMattsson\source\repos\Träningsdagbok\Träningsdagbok\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\EliasMattsson\source\repos\Träningsdagbok\Träningsdagbok\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\EliasMattsson\source\repos\Träningsdagbok\Träningsdagbok\obj\Debug\net6.0-windows\Träningsdagbok.vbproj.CopyComplete
+C:\Users\EliasMattsson\source\repos\Träningsdagbok\Träningsdagbok\obj\Debug\net6.0-windows\Träningsdagbok.frmLista.resources

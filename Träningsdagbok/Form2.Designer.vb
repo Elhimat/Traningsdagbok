@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class Form2
+Partial Class frmLista
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
@@ -22,88 +22,82 @@ Partial Class Form2
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.btnlaggtill = New System.Windows.Forms.Button()
-        Me.btnAndra = New System.Windows.Forms.Button()
-        Me.btnradera = New System.Windows.Forms.Button()
-        Me.btnAvbryt = New System.Windows.Forms.Button()
-        Me.btnSpara = New System.Windows.Forms.Button()
-        Me.cboAktivitet = New System.Windows.Forms.ComboBox()
+        Me.lstAdresser = New System.Windows.Forms.ListView()
+        Me.colid = New System.Windows.Forms.ColumnHeader()
+        Me.colAktivitetID = New System.Windows.Forms.ColumnHeader()
+        Me.colDatum = New System.Windows.Forms.ColumnHeader()
+        Me.colTid = New System.Windows.Forms.ColumnHeader()
+        Me.colDistans = New System.Windows.Forms.ColumnHeader()
+        Me.colBeskrivning = New System.Windows.Forms.ColumnHeader()
         Me.SuspendLayout()
         '
-        'btnlaggtill
+        'lstAdresser
         '
-        Me.btnlaggtill.Location = New System.Drawing.Point(452, 192)
-        Me.btnlaggtill.Name = "btnlaggtill"
-        Me.btnlaggtill.Size = New System.Drawing.Size(77, 30)
-        Me.btnlaggtill.TabIndex = 11
-        Me.btnlaggtill.Text = "Lägg till"
-        Me.btnlaggtill.UseVisualStyleBackColor = True
+        Me.lstAdresser.Columns.AddRange(New System.Windows.Forms.ColumnHeader() {Me.colid, Me.colAktivitetID, Me.colDatum, Me.colTid, Me.colDistans, Me.colBeskrivning})
+        Me.lstAdresser.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.lstAdresser.FullRowSelect = True
+        Me.lstAdresser.GridLines = True
+        Me.lstAdresser.HeaderStyle = System.Windows.Forms.ColumnHeaderStyle.Nonclickable
+        Me.lstAdresser.Location = New System.Drawing.Point(0, 0)
+        Me.lstAdresser.MinimumSize = New System.Drawing.Size(489, 360)
+        Me.lstAdresser.MultiSelect = False
+        Me.lstAdresser.Name = "lstAdresser"
+        Me.lstAdresser.Size = New System.Drawing.Size(653, 549)
+        Me.lstAdresser.TabIndex = 1
+        Me.lstAdresser.UseCompatibleStateImageBehavior = False
+        Me.lstAdresser.View = System.Windows.Forms.View.Details
         '
-        'btnAndra
+        'colid
         '
-        Me.btnAndra.Location = New System.Drawing.Point(452, 228)
-        Me.btnAndra.Name = "btnAndra"
-        Me.btnAndra.Size = New System.Drawing.Size(77, 30)
-        Me.btnAndra.TabIndex = 10
-        Me.btnAndra.Text = "Ändra"
-        Me.btnAndra.UseVisualStyleBackColor = True
+        Me.colid.Text = "ID"
+        Me.colid.Width = 100
         '
-        'btnradera
+        'colAktivitetID
         '
-        Me.btnradera.Location = New System.Drawing.Point(452, 264)
-        Me.btnradera.Name = "btnradera"
-        Me.btnradera.Size = New System.Drawing.Size(77, 30)
-        Me.btnradera.TabIndex = 9
-        Me.btnradera.Text = "Ta bort"
-        Me.btnradera.UseVisualStyleBackColor = True
+        Me.colAktivitetID.DisplayIndex = 5
+        Me.colAktivitetID.Text = "AktivitetID"
+        Me.colAktivitetID.Width = 100
         '
-        'btnAvbryt
+        'colDatum
         '
-        Me.btnAvbryt.Location = New System.Drawing.Point(354, 156)
-        Me.btnAvbryt.Name = "btnAvbryt"
-        Me.btnAvbryt.Size = New System.Drawing.Size(77, 30)
-        Me.btnAvbryt.TabIndex = 8
-        Me.btnAvbryt.Text = "Avbryt"
-        Me.btnAvbryt.UseVisualStyleBackColor = True
+        Me.colDatum.DisplayIndex = 1
+        Me.colDatum.Text = "Datum"
+        Me.colDatum.Width = 120
         '
-        'btnSpara
+        'colTid
         '
-        Me.btnSpara.Location = New System.Drawing.Point(271, 156)
-        Me.btnSpara.Name = "btnSpara"
-        Me.btnSpara.Size = New System.Drawing.Size(77, 30)
-        Me.btnSpara.TabIndex = 7
-        Me.btnSpara.Text = "Spara"
-        Me.btnSpara.UseVisualStyleBackColor = True
+        Me.colTid.DisplayIndex = 2
+        Me.colTid.Text = "Tid"
+        Me.colTid.Width = 120
         '
-        'cboAktivitet
+        'colDistans
         '
-        Me.cboAktivitet.FormattingEnabled = True
-        Me.cboAktivitet.Location = New System.Drawing.Point(271, 192)
-        Me.cboAktivitet.Name = "cboAktivitet"
-        Me.cboAktivitet.Size = New System.Drawing.Size(151, 28)
-        Me.cboAktivitet.TabIndex = 6
+        Me.colDistans.DisplayIndex = 3
+        Me.colDistans.Text = "Distans"
+        Me.colDistans.Width = 100
         '
-        'Form2
+        'colBeskrivning
+        '
+        Me.colBeskrivning.DisplayIndex = 4
+        Me.colBeskrivning.Text = "Beskrivning"
+        Me.colBeskrivning.Width = 100
+        '
+        'frmLista
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(800, 450)
-        Me.Controls.Add(Me.btnlaggtill)
-        Me.Controls.Add(Me.btnAndra)
-        Me.Controls.Add(Me.btnradera)
-        Me.Controls.Add(Me.btnAvbryt)
-        Me.Controls.Add(Me.btnSpara)
-        Me.Controls.Add(Me.cboAktivitet)
-        Me.Name = "Form2"
-        Me.Text = "Form2"
+        Me.ClientSize = New System.Drawing.Size(653, 549)
+        Me.Controls.Add(Me.lstAdresser)
+        Me.Name = "frmLista"
+        Me.Text = "frmLista"
         Me.ResumeLayout(False)
 
     End Sub
-
-    Friend WithEvents btnlaggtill As Button
-    Friend WithEvents btnAndra As Button
-    Friend WithEvents btnradera As Button
-    Friend WithEvents btnAvbryt As Button
-    Friend WithEvents btnSpara As Button
-    Friend WithEvents cboAktivitet As ComboBox
+    Friend WithEvents lstAdresser As ListView
+    Friend WithEvents colAktivitetID As ColumnHeader
+    Friend WithEvents colDatum As ColumnHeader
+    Friend WithEvents colTid As ColumnHeader
+    Friend WithEvents colDistans As ColumnHeader
+    Friend WithEvents colBeskrivning As ColumnHeader
+    Friend WithEvents colid As ColumnHeader
 End Class
