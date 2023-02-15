@@ -1,17 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "fhu156fsxhdztYXGKhAzeXVM3YjJxHNAp5XlTjRG7oZrvT3VSolYOwTt7ttgw+muj5JF3Ii2Au1zkdtDpV4BXw==",
+  "dgSpecHash": "Gu40NY5oe3h2A+1z/PFZrH0PCqvU6p4RkbZw6N394qvhuxzwb8u7uB0xts5h2dakCAn5e3ajyY+qxXAn1kx8IA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\EliasMattsson\\source\\repos\\Träningsdagbok\\Träningsdagbok\\Träningsdagbok.vbproj",
+  "projectFilePath": "C:\\temp\\IT20_Inlämning\\EliasM\\Traningsdagbok\\Träningsdagbok\\Träningsdagbok.vbproj",
   "expectedPackageFiles": [
-    "C:\\Users\\EliasMattsson\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
-    "C:\\Users\\EliasMattsson\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
-    "C:\\Users\\EliasMattsson\\.nuget\\packages\\system.data.oledb\\7.0.0\\system.data.oledb.7.0.0.nupkg.sha512",
-    "C:\\Users\\EliasMattsson\\.nuget\\packages\\system.diagnostics.performancecounter\\7.0.0\\system.diagnostics.performancecounter.7.0.0.nupkg.sha512",
-    "C:\\Users\\EliasMattsson\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
-    "C:\\Users\\EliasMattsson\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
-    "C:\\Users\\EliasMattsson\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
-    "C:\\Users\\EliasMattsson\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+    "C:\\Users\\kjellh\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\kjellh\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\kjellh\\.nuget\\packages\\system.data.oledb\\7.0.0\\system.data.oledb.7.0.0.nupkg.sha512",
+    "C:\\Users\\kjellh\\.nuget\\packages\\system.diagnostics.performancecounter\\7.0.0\\system.diagnostics.performancecounter.7.0.0.nupkg.sha512",
+    "C:\\Users\\kjellh\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\kjellh\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\kjellh\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\kjellh\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }
