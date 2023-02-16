@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EliasMattsson\\source\\repos\\Träningsdagbok\\Träningsdagbok\\Träningsdagbok.vbproj": {}
+    "C:\\temp\\IT20_Inlämning\\EliasM\\Traningsdagbok\\Träningsdagbok\\Träningsdagbok.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\EliasMattsson\\source\\repos\\Träningsdagbok\\Träningsdagbok\\Träningsdagbok.vbproj": {
+    "C:\\temp\\IT20_Inlämning\\EliasM\\Traningsdagbok\\Träningsdagbok\\Träningsdagbok.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EliasMattsson\\source\\repos\\Träningsdagbok\\Träningsdagbok\\Träningsdagbok.vbproj",
+        "projectUniqueName": "C:\\temp\\IT20_Inlämning\\EliasM\\Traningsdagbok\\Träningsdagbok\\Träningsdagbok.vbproj",
         "projectName": "Träningsdagbok",
-        "projectPath": "C:\\Users\\EliasMattsson\\source\\repos\\Träningsdagbok\\Träningsdagbok\\Träningsdagbok.vbproj",
-        "packagesPath": "C:\\Users\\EliasMattsson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EliasMattsson\\source\\repos\\Träningsdagbok\\Träningsdagbok\\obj\\",
+        "projectPath": "C:\\temp\\IT20_Inlämning\\EliasM\\Traningsdagbok\\Träningsdagbok\\Träningsdagbok.vbproj",
+        "packagesPath": "C:\\Users\\kjellh\\.nuget\\packages\\",
+        "outputPath": "C:\\temp\\IT20_Inlämning\\EliasM\\Traningsdagbok\\Träningsdagbok\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\EliasMattsson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kjellh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
